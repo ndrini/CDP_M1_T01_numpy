@@ -1,2 +1,8 @@
 venv*
 *.pyc
+
+*.csv
+*.shp
+*.shx
+*.dbf
+
