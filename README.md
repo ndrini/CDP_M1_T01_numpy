@@ -1,3 +1,25 @@
+
+
+# Environment settings
+
+Chec th e presence of python3
+Create a venv 
+
+    python -m venv cdp_venv
+
+    activate it
+
+    install requirementes
+
+
+## set kaggle user
+
+Make sure it's located in /home/<user>/.kaggle
+
+[hel'p](https://medium.com/@c.venkataramanan1/setting-up-kaggle-api-in-linux-b05332cde53a)
+
+
+
 # M1 T01: Practice with NumPy numerical programming
 
 ## Description
