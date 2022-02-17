@@ -8,3 +8,5 @@ venv*
 *.xlsx
 
 cdp_venv*
+
+*.bk
