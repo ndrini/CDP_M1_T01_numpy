@@ -10,14 +10,14 @@ response (for instance) Python 3.9.5
 
 Create a venv 
 
-    python3 -m venv cdp_venv
+    python3 -m venv venv_ml
     activate it
     install requirementes
 
 
 ## Activate the environment
 
-   CDP_M1_T01_numpy$ . ./cdp_venv/bin/activate 
+   CDP_M1_T01_numpy$ . ./venv_ml/bin/activate 
 
 If, inside svcode, the venv is not fisible, serach for it in the tobbar, and add it by selecting the bin/python3.9
 
