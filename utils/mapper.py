@@ -1,6 +1,9 @@
 import yaml
 
-with open('code_airline.yaml', 'r') as file:
+# get working dir...
+
+
+with open('.utils.code_airline.yaml', 'r') as file:
     services = yaml.safe_load(file)
 
     def find_carrier_name(abbreviation: str) -> str:
