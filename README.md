@@ -11,8 +11,10 @@ response (for instance) Python 3.9.5
 Create a venv 
 
     python3 -m venv venv_ml
-    activate it
-    install requirementes
+    
+activate it
+    
+    python -m pip install -r requirements
 
 
 ## Activate the environment
@@ -28,6 +30,11 @@ Make sure your kaggle credential is located in /home/\<user\>/.kaggle folder (se
 Then change permissions
 
     chmod 600 /home/<username>/.kaggle/kaggle.json
+
+## VSCode settings
+
+If you use vscode read the doc: 
+https://code.visualstudio.com/docs/datascience/jupyter-notebooks
 
 
 # M1 T01: Practice with NumPy numerical programming
