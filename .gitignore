@@ -6,3 +6,7 @@ venv*
 *.shx
 *.dbf
 *.xlsx
+
+cdp_venv*
+
+*.bk
